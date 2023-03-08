@@ -13,7 +13,8 @@ truly knowing c is about:
 * knowing whether and how the machine code changes by every single letter in the code
 * where the components of a code are loaded on the memory, and why
 * how is it that a program loaded onto the memory
-* how is it that a program starts to execute, under what supervisions and protection mechanisms
+* how is it that a program starts to execute, under what supervisions and protection mechanisms, through which layers of abstraction
 * what are the possible actions taken by a specific processor, what's the instruction set
 * how do different architectures affect performance and capabilities of the language
-* how it all works on the actual circuitry of the computer or MCU
+* how do the features of the language map to electronics, what are the limitations of these features
+* how it all works on the actual electronic circuitry of the computer or MCU
